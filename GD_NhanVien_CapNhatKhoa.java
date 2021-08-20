@@ -34,6 +34,7 @@ import javax.swing.JButton;
 public class GD_NhanVien_CapNhatKhoa extends JFrame implements ActionListener,MouseListener{
 	
 	//đã sửa
+//đã sửa lần 2
 
 	private JFrame frame;
 	private JTextField txtMaKhoa;
